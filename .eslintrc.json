@@ -33,6 +33,10 @@
         "args": "none"
       }
     ],
+    "no-console": 0,
+    "no-alert": 0,
+    "no-use-before-define": ["error", { "functions": false, "classes": true }],
+    "no-param-reassign": [2, { "props": false }],
     "jsx-a11y/anchor-is-valid": [
       "error",
       {
