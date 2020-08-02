@@ -180,6 +180,20 @@
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#F3B700",
+      "link_extra": {
+        "text": "Site para assistir animes",
+        "url": "https://animeshouse.net/"
+      },
+      "videos": [
+        {
+          "titulo": "Kaguya-sama",
+          "url": "https://youtu.be/N4UH-kkVJpA"
+        }
+      ]
     }
   ]
 }
